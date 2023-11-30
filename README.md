@@ -1,8 +1,9 @@
 **Hi, I'm**
 # Rodrigo Heinzen de Moraes
 
-* FrontEnd Developer - Ottimizza
-* Computer Science - Regional University of Blumenau (FURB)
+* 💼 FrontEnd Developer - Ottimizza
+* 🎓 Computer Science - Regional University of Blumenau (FURB)
+
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R0DR160HM&layout=compact&langs_count=7&theme=tokyonight">
