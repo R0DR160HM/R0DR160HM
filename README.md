@@ -4,7 +4,9 @@
 * FrontEnd Developer - Ottimizza
 * Computer Science - Regional University of Blumenau (FURB)
 
-<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R0DR160HM&layout=compact&langs_count=7&theme=tokyonight">
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R0DR160HM&layout=compact&langs_count=7&theme=tokyonight">
+</div>
 
 <!--
 **R0DR160HM/R0DR160HM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
