@@ -1,10 +1,10 @@
-## Hi, I'm
+**Hi, I'm**
 # Rodrigo Heinzen de Moraes
 
 * FrontEnd Developer - Ottimizza
 * Computer Science - Regional University of Blumenau (FURB)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R0DR160HM&layout=compact&langs_count=7&theme=tokyonight"/>
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R0DR160HM&layout=compact&langs_count=7&theme=tokyonight">
 
 <!--
 **R0DR160HM/R0DR160HM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
