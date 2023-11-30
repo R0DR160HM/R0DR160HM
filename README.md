@@ -1,6 +1,6 @@
 # Rodrigo Heinzen de Moraes
-> FrontEnd Developer - Ottimizza
-> Computer Science - Regional University of Blumenau (FURB)
+* FrontEnd Developer - Ottimizza
+* Computer Science - Regional University of Blumenau (FURB)
 
 <!--
 **R0DR160HM/R0DR160HM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
