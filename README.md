@@ -7,7 +7,6 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R0DR160HM&layout=compact&langs_count=7&theme=tokyonight">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=R0DR160HM&show_icons=true&locale=en&theme=tokyonight" alt="R0DR160HM" /></p>
 </div>
 
 <!--
