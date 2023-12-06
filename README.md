@@ -1,4 +1,4 @@
-**Hi, I'm**
+**Hi 👋, I'm**
 # Rodrigo Heinzen de Moraes
 
 * 💼 FrontEnd Developer - Ottimizza
