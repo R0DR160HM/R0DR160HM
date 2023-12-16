@@ -1,7 +1,7 @@
 # Hi 👋, I'm Rodrigo Heinzen de Moraes
 
 * 💼 **FrontEnd Developer** - Ottimizza
-* 🎓 **Computer Science** - Regional University of Blumenau (FURB)
+* 🎓 **Computer Science** - University of Blumenau (FURB)
 
 
 <div align="center">
