@@ -3,12 +3,12 @@
 - 🌍 I live in Blumenau, Santa Catarina.
 - ✉️ You can contact me via email [rodrigo.heinzen.moraes@gmail.com](mailto:rodrigo.heinzen.moraes@gmail.com) or [my LinkedIn](https://www.linkedin.com/in/rodrigo-heinzen-de-moraes-754b67193/)
 - 🎓 I'm studying Computer Sciente at the University of Blumenau (FURB)
-
 <br/>
+
 ## 💼 Frontend Developer at Ottimizza
 Where I build web applications using **Angular** and Web APIs/tools such as **WebSocket**, **IndexedDB**, **PWA**, **push notification**, **Web Share API** and many more
+<br/><br/>
 
-<br/>
 ## Languages, Tools and Frameworks
 <p align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="45" height="45"/> 
