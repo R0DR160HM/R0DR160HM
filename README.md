@@ -5,7 +5,7 @@
 - 🎓 I'm studying Computer Sciente at the University of Blumenau (FURB)
 
 ## 💼 Frontend Developer at Ottimizza
-Where I work building web applications in **Angular** using Web APIs/tools such as **WebSocket**, **IndexedDB**, **PWA**, **push notification**, **Web Share API** and many more
+Where I build web applications using **Angular** and Web APIs/tools such as **WebSocket**, **IndexedDB**, **PWA**, **push notification**, **Web Share API** and many more
 
 ## Languages, Tools and Frameworks
 <p align="left">
