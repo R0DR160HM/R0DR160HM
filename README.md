@@ -6,7 +6,7 @@
 <br/>
 
 ## 💼 Frontend Developer at Ottimizza
-Where I build web applications using **Angular** and Web APIs/tools such as **WebSocket**, **IndexedDB**, **PWA**, **push notification**, **Web Share API** and many more
+Where I build web applications using **Angular** and Web APIs/tools such as **WebSocket**, **IndexedDB**, **PWA**, **push notification**, **WebRTC**, **Web Share API** and many more
 <br/><br/>
 
 ## Languages, Tools and Frameworks
