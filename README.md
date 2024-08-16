@@ -2,7 +2,7 @@
 
 - 🌍 I live in Blumenau, Santa Catarina.
 - ✉️ You can contact me via email [rodrigo.heinzen.moraes@gmail.com](mailto:rodrigo.heinzen.moraes@gmail.com) or [my LinkedIn](https://www.linkedin.com/in/rodrigo-heinzen-de-moraes-754b67193/)
-- 🎓 I'm studying Computer Sciente at the University of Blumenau (FURB)
+- 🎓 I'm studying Computer Science at the University of Blumenau (FURB)
 <br/>
 
 ## 💼 Frontend Developer at Ottimizza
