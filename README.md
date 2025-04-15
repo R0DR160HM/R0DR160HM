@@ -18,7 +18,8 @@ Where I mostly build web applications using **Angular** and Web APIs/tools such 
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" alt="Go" title="Go" width="45" height="45"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" title="NodeJS" width="45" height="45"/>  
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" title="Java" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/gleam-lang/website/main/images/lucy/lucy.svg" alt="Gleam" title="Gleam" width="45" height="45"/>
+  <img src="https://gleam.run/images/lucy/lucy.svg" alt="Gleam" title="Gleam" width="45" height="45"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/zig/zig-original.svg" alt="Zig" title="Zig" width="45" height="45"/>
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" title="Git" width="45" height="45"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" alt="Firebase" title="Firebase" width="45" height="45"/>
