@@ -7,7 +7,7 @@ Amateur [language developer](https://hive-lang.run) in my free time.
 
 - 🌍 I live in Blumenau, Santa Catarina, Brazil.
 - 🎓 B.Sc. in Computer Science at the [University of Blumenau (FURB)](https://furb.br).
-- 🤖 Pursuing a postgraduate course in AI applied to Cybersecurity at [FIAP](https://www.fiap.com.br).
+- 🤖 Pursuing a postgraduate course in AI applied to Cybersecurity Engineering at [FIAP](https://www.fiap.com.br).
 
 ## Contact
 
